@@ -21,8 +21,9 @@
         style.textContent = `
             .dark {
                 --bg-primary: #000000 !important;
-                --bg-elevated-secondary: #040404ff !important;
-                --sidebar-surface-primary: #040404ff !important;
+                --bg-elevated-secondary: #000000 !important;
+                --sidebar-surface-primary: #000000 !important;
+                --main-surface-primary: #000000 !important;
             }
         `;
         document.head.appendChild(style);
