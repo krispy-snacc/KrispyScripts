@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Google Classroom - Download Post Attachments
 // @namespace    https://example.com/userscripts
+// @license      MIT
 // @version      1.0
 // @description  Adds a download button to each Google Classroom post that fetches and downloads all attachments using the Classroom API
 // @author       @krispy-snacc (https://github.com/krispy-snacc)

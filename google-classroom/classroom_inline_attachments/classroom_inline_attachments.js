@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Google Classroom - Show Inline Attachments
 // @namespace    https://example.com/userscripts
+// @license      MIT
 // @version      1.0
 // @description  Show post attachments inline in the Classroom stream (adds a materials block inside each post)
 // @author       @krispy-snacc (https://github.com/krispy-snacc)

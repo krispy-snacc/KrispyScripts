@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT - True Dark Theme
 // @namespace    https://example.com/userscripts
+// @license      MIT
 // @version      1.0
 // @description  Makes ChatGPT dark mode truly black by changing the styles
 // @author       @krispy-snacc (https://github.com/krispy-snacc)
