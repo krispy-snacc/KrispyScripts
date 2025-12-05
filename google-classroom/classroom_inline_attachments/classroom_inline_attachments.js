@@ -7,6 +7,8 @@
 // @match        https://classroom.google.com/*
 // @grant        none
 // @run-at       document-idle
+// @downloadURL https://raw.githubusercontent.com/krispy-snacc/KrispyScripts/refs/heads/main/google-classroom/classroom_inline_attachments/classroom_inline_attachments.js
+// @updateURL https://raw.githubusercontent.com/krispy-snacc/KrispyScripts/refs/heads/main/google-classroom/classroom_inline_attachments/classroom_inline_attachments.js
 // ==/UserScript==
 
 (function () {

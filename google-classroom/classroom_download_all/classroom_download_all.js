@@ -7,8 +7,8 @@
 // @match        https://classroom.google.com/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL https://gist.githubusercontent.com/krispy-snacc/5776a32bbc37154fc3449f2b2cb01a5c/raw/google_classroom_download_attachments.js
-// @updateURL https://gist.githubusercontent.com/krispy-snacc/5776a32bbc37154fc3449f2b2cb01a5c/raw/google_classroom_download_attachments.js
+// @downloadURL https://raw.githubusercontent.com/krispy-snacc/KrispyScripts/refs/heads/main/google-classroom/classroom_download_all/classroom_download_all.js
+// @updateURL https://raw.githubusercontent.com/krispy-snacc/KrispyScripts/refs/heads/main/google-classroom/classroom_download_all/classroom_download_all.js
 // ==/UserScript==
 
 (function () {
